@@ -18,4 +18,4 @@ Vink's Image Converter è un convertitore di immagini gratuito, attualmente supp
 >
 > Il motivo alla base di questo progetto è che volevo testare le mie capacità e creare qualcosa che userei davvero nelle mie attività quotidiane.
 >
-> Dai un'occhiata alle release recneti [**qui**](https://github.com/vinkstandard/Vinks-Image-Converter/releases)
+> Dai un'occhiata alle release recenti [**qui**](https://github.com/vinkstandard/Vinks-Image-Converter/releases)
