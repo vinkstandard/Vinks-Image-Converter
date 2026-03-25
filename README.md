@@ -17,3 +17,4 @@ Vink's Image Converter is a free image converter, right now it 100% supports thi
 > Graphical improvements will come in future releases.
 >
 > The reason behind this project is that i wanted to test my skills and create something i would actually use in my daily activities.
+> Check latest releases [**here**](https://github.com/vinkstandard/Vinks-Image-Converter/releases)
