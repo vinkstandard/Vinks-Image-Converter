@@ -31,6 +31,10 @@ Vink's Image Converter è un convertitore di immagini gratuito. Attualmente supp
 >
 > Durante il downscaling, il programma rispetta i limiti dei formati. Se si tenta di ridimensionare un'immagine a una risoluzione troppo alta per quel formato, il programma imposterà automaticamente
 > l'immagine alla risoluzione massima consentita dal formato scelto.
+>
+> Per il corretto funzionamento dell'app, l'avvio del programma deve avvenire esclusivamente tramite il collegamento "Vink's Image Converter".
+>
+> Inoltre, si consiglia di non spostare o modificare i file all'interno della cartella "app_files", poiché ciò potrebbe causare malfunzionamenti.
 
 ## Come usare il programma
 
